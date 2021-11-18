@@ -1,4 +1,4 @@
-# Non-Euclidean-Raycaster
+# Non Euclidean Raycaster
 A non-Euclidean raycaster engine written in C++ and SFML.
 
 ## Demonstration
