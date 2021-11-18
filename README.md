@@ -8,8 +8,8 @@ Click to view on YouTube:
 
 ## Achtung!
 A few things about this project:
-* it does not include rendering floors, ceilings or sprites (yet)
-* it is not optimized for performance (to keep the code more readable)
+* it does not include rendering floors, ceilings or sprites (yet);
+* it is not optimized for performance (to keep the code more readable).
 
 ## Building
 If you want to use the Visual Studio 19 solution then download and unpack SFML v2.5.1 to C:\SFML\
