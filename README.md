@@ -1,6 +1,11 @@
 # Non-Euclidean-Raycaster
 A non-Euclidean raycaster engine written in C++ and SFML.
 
+## Demonstration
+Click to view on YouTube:
+
+[![video](https://img.youtube.com/vi/FhbtU5MOVgA/0.jpg)](https://www.youtube.com/watch?v=FhbtU5MOVgA)
+
 ## Achtung!
 A few things about this project:
 * it does not include rendering floors, ceilings or sprites (yet)
